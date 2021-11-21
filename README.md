@@ -1,11 +1,8 @@
-## Hi there 👋 It's me, A Y U S H I 
-
-### Cyber Security Student
-
+# Hi there 👋 It's me, A Y U S H I 
+## I'm a Student, Coder, Artist and a Daughter!!
+### Here are some ideas to get you started:
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
- 
-Here are some ideas to get you started:
-### I'm a Student, Coder, Artist and a Daughter!!
+
 - 🔭 I’m currently working on My Data Science projects
 - 🌱 I’m currently learning Data Analytics
 - 👯 I’m looking to collaborate on Open Source Projects
