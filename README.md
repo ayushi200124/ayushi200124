@@ -1,5 +1,5 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> It's me, A Y U S H I 
-## I'm a Student, Coder, Artist and a Daughter!!
+## I'm a Student, Coder, Artist and a Daughter!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="40px">
 ### Here are some ideas to acknowledge you about me:
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -11,8 +11,9 @@
 - 📫 How to reach me: ayushidas200124@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I LOVE ICE CREAM!!!!!!!!!!
-
+- 
 ### Talk with me, I am kinda awesome:
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="80px">
 <a href="https://www.linkedin.com/in/connect-to-ayushi">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -48,3 +49,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <br />
 <p />
+ 
+<a href="https://github.com/ayushi200124">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi200124&theme=radical&hide=glsl,python" />
+</a>
