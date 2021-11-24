@@ -50,6 +50,14 @@
 <br />
 <p />
  
+
+ 
+ ### Ayushi's Stats
+ <br>
 <a href="https://github.com/ayushi200124">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi200124&theme=radical&hide=glsl,python" />
 </a>
+ <a href="https://github.com/ayushi200124">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ayushi200124&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+</a>
+ </br>
