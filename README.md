@@ -49,20 +49,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="PowerBI" width="26px" src="https://user-images.githubusercontent.com/79920441/145065268-cfcd9e75-d95c-4344-a1bd-902cd6e18535.png" />
 <img align="left" alt="Excel" width="46px" src="https://user-images.githubusercontent.com/79920441/145065395-ecf4c767-d684-4564-b619-683a1de81712.png" />
-<img align="left" alt="Tableau" width="46px" src="https://user-images.githubusercontent.com/79920441/145065478-44e144be-2fd5-4a7b-89d0-8313d9aed415.png" />
- 
- 
- 
- 
+<img align="left" alt="Tableau" width="46px" src="https://user-images.githubusercontent.com/79920441/145065478-44e144be-2fd5-4a7b-89d0-8313d9aed415.png" /\> 
 <img align="left" alt="Tableau" width="30px" src="https://user-images.githubusercontent.com/79920441/145066360-778d7a27-3088-4cf7-9131-102579aa0bab.png" />
 
- <br />
-<p />
- 
-
- 
- 
- 
+<br>
+ </br>
  
  ### Working on improving my stats! T_T
  <br>
