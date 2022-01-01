@@ -31,8 +31,11 @@
 <a href="https://www.instagram.com/blaack_bug/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<a href="https://medium.com/@ayushidas200124" target="_blank">
+<img align="left" width="26px" src="https://img.icons8.com/fluency-systems-filled/48/000000/medium-logo.png"/>
+</a>
 <br> <br/>
+
 ### Languages and Tools I am familiar with:
 <b>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -56,13 +59,21 @@
 
 <br>
  </br>
+
+### Bloggers, check out my recent medium articles-
+
+ [![Ayushi Das Medium](https://github-readme-medium.vercel.app/?username=ayushidas200124&limit=5&bg=white&text=black)](https://medium.com/@ayushidas200124)
  
- ### Working on improving my stats! T_T
+### Show some ❤️ by starring and contributing to some of the repositories! 
+ 
+ 
+### Working on improving my stats! T_T
  <br>
 <a href="https://github.com/ayushi200124">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi200124&theme=radical&hide=glsl,python" />
 </a>
  <a href="https://github.com/ayushi200124">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ayushi200124&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-</a>
- </br>
+</a>  
+</br>
+  
