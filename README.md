@@ -77,3 +77,4 @@
 </a>  
 </br>
   
+![github graph](https://activity-graph.herokuapp.com/graph?username=ayushi200124&theme=react-dark)
