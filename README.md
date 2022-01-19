@@ -56,18 +56,19 @@
  <br>
  </br>
 <img align="left" alt="Anaconda" width="30px" src="https://user-images.githubusercontent.com/79920441/145066360-778d7a27-3088-4cf7-9131-102579aa0bab.png" />
-
+<img align="left" alt="Anaconda" width="30px" src="https://user-images.githubusercontent.com/79920441/150148447-fbe7351e-9926-4550-b2a5-976433aa9a1d.png"/>
 <br>
  </br>
 
 ### Bloggers, check out my recent medium articles-
 
- [![Ayushi Das Medium](https://github-readme-medium.vercel.app/?username=ayushidas200124&limit=5&bg=white&text=black)](https://medium.com/@ayushidas200124)
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ayushidas200124/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ayushidas200124/0" alt="Recent Article 0"> </a>
  
-### Show some ❤️ by starring and contributing to some of the repositories! 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ayushidas200124/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ayushidas200124/1" alt="Recent Article 1"> </a>
+  
+### Show some ❤️ by starring and contributing to some of the repositories!
  
- 
-### Working on improving my stats! T_T
+### Working on improving my stats! T_T 
  <br>
 <a href="https://github.com/ayushi200124">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi200124&theme=radical&hide=glsl,python" />
