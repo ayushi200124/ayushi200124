@@ -1,5 +1,5 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> It's me, A Y U S H I 
-## I'm a Student, Coder, Artist and a Daughter!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="40px">
+# Hi there it's me, A Y U S H I 
+## I'm a Student, Coder, Artist and a Daughter!! 
 ### Here are some ideas to acknowledge you about me:
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
